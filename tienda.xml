@@ -1,4 +1,4 @@
-Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: https://developer.mozilla.org
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="html/xsl" href="tienda.xsl"?>
 <tienda>
