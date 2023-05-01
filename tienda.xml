@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="html/xsl" href="tienda.xsl"?>
+<tienda>
+<producto categoria='minerales'>	
+	<img>img/productos/cuarzo-rosa.jpg</img>
+	<nombre>Cuarzo rosa</nombre>
+	<precio>1.50</precio>
+	<stock>50</stock>
+	<cualidades>Limpieza</cualidades>
+</producto>
+<producto categoria='minerales'>
+	<img>img/productos/lapislazuli.jpg</img>
+	<nombre>Lapislazuli</nombre>
+	<precio>1.50</precio>
+	<stock>50</stock>
+	<cualidades>Protección</cualidades>
+</producto>
+<producto categoria='minerales'>
+	<img>img/productos/turmalina.jpg</img>
+	<nombre>Turmalina</nombre>
+	<precio>1.50</precio>
+	<stock>50</stock>
+	<cualidades>Protección</cualidades>
+</producto>
+<producto categoria='velas'>
+	<img>img/productos/vela-blanca.jpg</img>
+	<nombre>Vela blanca</nombre>
+	<precio>0.50</precio>
+	<stock>20</stock>
+	<cualidades>Protección</cualidades>
+</producto>
+<producto categoria='velas'>
+	<img>img/productos/vela-roja.jpg</img>
+	<nombre>Vela roja</nombre>
+	<precio>0.50</precio>
+	<stock>20</stock>
+	<cualidades>Amor</cualidades>
+</producto>
+<producto categoria='velas'>
+	<img>img/productos/vela-negra.jpg</img>
+	<nombre>Vela Negra</nombre>
+	<precio>0.50</precio>
+	<stock>20</stock>
+	<cualidades>Protección</cualidades>
+</producto>
+<producto categoria='calderos'>
+	<img>img/productos/caldero-wicca.jpg</img>
+	<nombre>Caldero de Wicca</nombre>
+	<precio>8.50</precio>
+	<stock>5</stock>
+	<cualidades>Rituales</cualidades>
+</producto>
+<producto categoria='calderos'>
+	<img>img/productos/caldero-arbol.jpg</img>
+	<nombre>Caldero Árbol</nombre>
+	<precio>13.50</precio>
+	<stock>3</stock>
+	<cualidades>Rituales</cualidades>
+</producto>
+<producto categoria='calderos'>
+	<img>img/productos/caldero-estrella.jpg</img>
+	<nombre>Caldero con Estrella</nombre>
+	<precio>18.50</precio>
+	<stock>1</stock>
+	<cualidades>Rituales</cualidades>
+</producto>
+<producto categoria='libros'>
+	<img>img/productos/bruja-moderna.jpg</img>
+	<nombre>Bruja Moderna</nombre>
+	<precio>15.50</precio>
+	<stock>1</stock>
+	<cualidades>Rituales</cualidades>
+</producto>
+<producto categoria='libros'>
+	<img>img/productos/libro-wicca.jpg</img>
+	<nombre>Wicca: Libro de los hechizos</nombre>
+	<precio>17.50</precio>
+	<stock>1</stock>
+	<cualidades>Rituales</cualidades>
+</producto>
+<producto categoria='libros'>
+	<img>img/productos/libro-talismanes.jpg</img>
+	<nombre>Guía completa de amuletos y talismanes</nombre>
+	<precio>13.50</precio>
+	<stock>1</stock>
+	<cualidades>Protección</cualidades>
+</producto>
+<producto categoria='inciensos'>
+	<img>img/productos/palo-santo.jpg</img>
+	<nombre>Palo santo</nombre>
+	<precio>1.00</precio>
+	<stock>15</stock>
+	<cualidades>Limpieza</cualidades>
+</producto>
+<producto categoria='inciensos'>
+	<img>img/productos/salvia.jpg</img>
+	<nombre>Salvia</nombre>
+	<precio>2.00</precio>
+	<stock>15</stock>
+	<cualidades>Limpieza</cualidades>
+</producto>
+<producto categoria='inciensos'>
+	<img>img/productos/ruda.jpg</img>
+	<nombre>Ruda</nombre>
+	<precio>0.70</precio>
+	<stock>20</stock>
+	<cualidades>Limpieza</cualidades>
+</producto>
+</tienda>
